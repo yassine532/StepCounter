@@ -1,0 +1,8 @@
+mediapipe==0.10.14
+opencv-python-headless
+scipy
+numpy
+matplotlib
+ultralytics
+jupyter
+ipykernel

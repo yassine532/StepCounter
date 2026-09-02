@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+stairmaster_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ML model weights
+*.pt
+*.pth
+*.onnx
+
+# Generated/output files
+outputs/
+runs/
+results/
+checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
